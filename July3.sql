@@ -95,8 +95,6 @@ VALUES (3, 'Neymar', 'da Silva Santos', '1992-02-05', 'Forward', 'Paris Saint-Ge
 INSERT INTO FootballPlayers (PlayerID, FirstName, LastName, DateOfBirth, Position, Club, Nationality, Height, Weight, MarketValue)
 VALUES (4, 'Kylian', 'Mbappé', '1998-12-20', 'Forward', 'Paris Saint-Germain', 'France', 178, 73, 250000000);
 
--- Continue replicating the INSERT statements for the remaining players
--- Remember to modify the values for each player accordingly
 
 INSERT INTO FootballPlayers (PlayerID, FirstName, LastName, DateOfBirth, Position, Club, Nationality, Height, Weight, MarketValue)
 VALUES (5, 'Luka', 'Modrić', '1985-09-09', 'Midfielder', 'Real Madrid', 'Croatia', 172, 66, 60000000);
@@ -116,8 +114,6 @@ VALUES (9, 'Sergio', 'Ramos', '1986-03-30', 'Defender', 'Paris Saint-Germain', '
 INSERT INTO FootballPlayers (PlayerID, FirstName, LastName, DateOfBirth, Position, Club, Nationality, Height, Weight, MarketValue)
 VALUES (10, 'Mohamed', 'Salah', '1992-06-15', 'Forward', 'Liverpool', 'Egypt', 175, 71, 150000000);
 
--- Continue replicating the INSERT statements for the remaining players
--- Remember to modify the values for each player accordingly
 
 INSERT INTO FootballPlayers (PlayerID, FirstName, LastName, DateOfBirth, Position, Club, Nationality, Height, Weight, MarketValue)
 VALUES (11, 'Sadio', 'Mané', '1992-04-10', 'Forward', 'Liverpool', 'Senegal', 174, 69, 120000000);
@@ -190,8 +186,6 @@ VALUES (3, 'Orange', 'Orange', 'Round', 'Sweet and Tangy', 'Spain', 'High in vit
 INSERT INTO Fruits (FruitID, Name, Color, Shape, Taste, Origin, NutritionalValue, PricePerKg, QuantityAvailable, ExpiryDate)
 VALUES (4, 'Grapes', 'Green', 'Round', 'Sweet', 'Italy', 'Rich in antioxidants', 3.0, 80, '2023-07-30');
 
--- Continue replicating the INSERT statements for the remaining fruits
--- Remember to modify the values for each fruit accordingly
 
 INSERT INTO Fruits (FruitID, Name, Color, Shape, Taste, Origin, NutritionalValue, PricePerKg, QuantityAvailable, ExpiryDate)
 VALUES (5, 'Mango', 'Yellow', 'Oval', 'Sweet', 'India', 'High in vitamin A and C', 2.0, 100, '2023-07-28');
@@ -211,8 +205,7 @@ VALUES (9, 'Kiwi', 'Brown', 'Oval', 'Tangy', 'New Zealand', 'High in vitamin C a
 INSERT INTO Fruits (FruitID, Name, Color, Shape, Taste, Origin, NutritionalValue, PricePerKg, QuantityAvailable, ExpiryDate)
 VALUES (10, 'Strawberry', 'Red', 'Heart-shaped', 'Sweet and Tangy', 'United States', 'Rich in vitamin C', 3.5, 90, '2023-07-29');
 
--- Continue replicating the INSERT statements for the remaining fruits
--- Remember to modify the values for each fruit accordingly
+
 
 INSERT INTO Fruits (FruitID, Name, Color, Shape, Taste, Origin, NutritionalValue, PricePerKg, QuantityAvailable, ExpiryDate)
 VALUES (11, 'Cherry', 'Red', 'Round', 'Sweet and Tart', 'United States', 'Rich in antioxidants', 4.0, 60, '2023-07-30');
@@ -229,8 +222,7 @@ VALUES (14, 'Lemon', 'Yellow', 'Oval', 'Sour', 'United States', 'Rich in vitamin
 INSERT INTO Fruits (FruitID, Name, Color, Shape, Taste, Origin, NutritionalValue, PricePerKg, QuantityAvailable, ExpiryDate)
 VALUES (15, 'Avocado', 'Green', 'Oval', 'Creamy and Nutty', 'Mexico', 'Rich in healthy fats', 3.5, 50, '2023-07-29');
 
--- Continue replicating the INSERT statements for the remaining fruits
--- Remember to modify the values for each fruit accordingly
+
 
 INSERT INTO Fruits (FruitID, Name, Color, Shape, Taste, Origin, NutritionalValue, PricePerKg, QuantityAvailable, ExpiryDate)
 VALUES (16, 'Guava', 'Green', 'Round', 'Sweet and Tangy', 'India', 'High in vitamin C', 2.2, 80, '2023-07-30');
